@@ -1,0 +1,12 @@
+C:\Users\Aluno\source\repos\RepeticaoComInterface\bin\Debug\RepeticaoComInterface.exe.config
+C:\Users\Aluno\source\repos\RepeticaoComInterface\bin\Debug\RepeticaoComInterface.exe
+C:\Users\Aluno\source\repos\RepeticaoComInterface\bin\Debug\RepeticaoComInterface.pdb
+C:\Users\Aluno\source\repos\RepeticaoComInterface\obj\Debug\RepeticaoComInterface.csproj.AssemblyReference.cache
+C:\Users\Aluno\source\repos\RepeticaoComInterface\obj\Debug\RepeticaoComInterface.FormEx1.resources
+C:\Users\Aluno\source\repos\RepeticaoComInterface\obj\Debug\RepeticaoComInterface.Properties.Resources.resources
+C:\Users\Aluno\source\repos\RepeticaoComInterface\obj\Debug\RepeticaoComInterface.csproj.GenerateResource.cache
+C:\Users\Aluno\source\repos\RepeticaoComInterface\obj\Debug\RepeticaoComInterface.csproj.CoreCompileInputs.cache
+C:\Users\Aluno\source\repos\RepeticaoComInterface\obj\Debug\RepeticaoComInterface.exe
+C:\Users\Aluno\source\repos\RepeticaoComInterface\obj\Debug\RepeticaoComInterface.pdb
+C:\Users\Aluno\source\repos\RepeticaoComInterface\obj\Debug\RepeticaoComInterface.FormEx2.resources
+C:\Users\Aluno\source\repos\RepeticaoComInterface\obj\Debug\RepeticaoComInterface.FormEx3.resources
